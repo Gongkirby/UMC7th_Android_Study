@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="@color/DeepSkyBlue" android:state_checked="true" />  <!-- 어두운 하늘색 (클릭 시) -->
+    <item android:color="@color/LightSkyBlue" android:state_checked="false" /> <!-- 검정색 (기본) -->
+</selector>

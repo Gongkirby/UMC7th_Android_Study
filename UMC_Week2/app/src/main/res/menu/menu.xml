@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hiking"
+        android:icon="@drawable/hiking"
+        android:title="" />
+    <item
+        android:id="@+id/gym"
+        android:icon="@drawable/gym"
+        android:title="" />
+    <item
+        android:id="@+id/running"
+        android:icon="@drawable/running"
+        android:title="" />
+    <item
+        android:id="@+id/yoga"
+        android:icon="@drawable/yoga"
+        android:title="" />
+</menu>
