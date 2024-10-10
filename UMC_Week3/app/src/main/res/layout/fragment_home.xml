@@ -233,6 +233,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@id/home_today_music_album_rv"/>
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>
