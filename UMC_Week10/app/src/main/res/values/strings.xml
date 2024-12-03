@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UMC_Week10</string>
+    <string name="kakao_app_key">e9ef29e00a51d48b4d50f57def3b8dd1</string>
+    <string name="scheme_kakao_app_key">e9ef29e00a51d48b4d50f57def3b8dd1</string>
+</resources>
